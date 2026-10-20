@@ -1,0 +1,4 @@
+interface:
+  display_name: "FDE Demo 设计与复盘"
+  short_description: "设计、彩排、记录并复盘客户 Demo，用行为证据判定价值、信任与技术三轴"
+  default_prompt: "用 $fde-demo 为这个场景设计一次客户 Demo，先找出最影响设计的未知，并提醒红线。"
